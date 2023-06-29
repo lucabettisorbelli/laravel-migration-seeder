@@ -4,7 +4,8 @@ namespace App\Http\Controllers;
 
 use App\Models\Train;
 
-class ControllerTrains extends Controller
+
+class TrainsController extends Controller
 {
     public function index()
     {
