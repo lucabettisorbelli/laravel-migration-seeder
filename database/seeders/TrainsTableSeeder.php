@@ -23,7 +23,7 @@ class TrainsTableSeeder extends Seeder
     //     }
     // }
 
-    public function run_senza_faker()
+    public function run()
     {
         $trains = [
             [
